@@ -3,7 +3,7 @@
 <h1> 💫 About Me  </h1>
 
  - 🎓 Computing Science undergraduate student <br/>
-  - 🚀 Focused on DevOps, CI/CD pipelines, and Cloud infrastructure automation.Now also AIOps and LLM calibration academically<br/>
+  - 🚀 Interested in Deep learning and Agentic reinforcement learning <br/>
   - 💻 Experienced in developing full-stack web applications and Agent applications <br/>
   - 🛠️ Skilled in building decoupled, high-performance RESTful architectures <br/>
   - 📕 please support my [blog](https://prisoner100683.github.io) (*it's abandoned temporarily*), thank you.
