@@ -2,7 +2,7 @@
 
 <h1> 💫 About Me  </h1>
 
- - 🎓 Software Engineering undergraduate student <br/>
+ - 🎓 Computing Science undergraduate student <br/>
   - 🚀 Focused on DevOps, CI/CD pipelines, and Cloud infrastructure automation.Now also AIOps and LLM calibration academically<br/>
   - 💻 Experienced in developing full-stack web applications and Agent applications <br/>
   - 🛠️ Skilled in building decoupled, high-performance RESTful architectures <br/>
